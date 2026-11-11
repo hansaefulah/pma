@@ -1,4 +1,4 @@
-import React, { useState, useRef } from 'react';
+import React, { useState, useRef, useEffect } from 'react';
 import { 
   ChevronLeft, 
   ChevronRight, 
@@ -14,10 +14,24 @@ import {
 } from 'lucide-react';
 
 export default function NewsPromoSection({ articles = [], onArticleView }) {
-  const [activeTab, setActiveTab] = useState('promo'); // 'promo', 'berita', 'pengumuman', 'literasi'
+  const [activeTab, setActiveTab] = useState('berita'); // 'berita', 'promo', 'pengumuman', 'literasi'
   const [selectedArticle, setSelectedArticle] = useState(null);
   const [copiedLink, setCopiedLink] = useState(false);
   const scrollContainerRef = useRef(null);
+
+  // LOGIKA TAMBAHAN: Otomatis buka modal berita/promo dari link share (Hash URL)
+  useEffect(() => {
+    if (typeof window !== 'undefined' && articles.length > 0) {
+      const hash = window.location.hash; // Mengambil string hash seperti "#article-123"
+      if (hash && hash.startsWith('#article-')) {
+        const articleId = hash.replace('#article-', '');
+        const targetArticle = articles.find(art => String(art.id) === String(articleId));
+        if (targetArticle) {
+          handleOpenArticle(targetArticle);
+        }
+      }
+    }
+  }, [articles]);
 
   const tabs = [
     { id: 'berita', label: 'BERITA' },
@@ -54,8 +68,22 @@ export default function NewsPromoSection({ articles = [], onArticleView }) {
   const handleOpenArticle = (art) => {
     const newViews = (Number(art.views) || 0) + 1;
     setSelectedArticle({ ...art, views: newViews });
+    
+    // UPDATE URL HASH saat modal dibuka agar link di browser ter-update
+    if (typeof window !== 'undefined') {
+      window.history.replaceState(null, '', `#article-${art.id}`);
+    }
+
     if (onArticleView) {
       onArticleView(art.id);
+    }
+  };
+
+  const handleCloseArticle = () => {
+    setSelectedArticle(null);
+    // HAPUS HASH dari URL saat modal ditutup
+    if (typeof window !== 'undefined') {
+      window.history.replaceState(null, '', window.location.pathname + window.location.search);
     }
   };
 
@@ -75,7 +103,7 @@ export default function NewsPromoSection({ articles = [], onArticleView }) {
         <div className="lg:col-span-4 space-y-6">
           
           <h2 className="text-2xl sm:text-3xl md:text-4xl font-extrabold text-slate-900 tracking-tight leading-tight">
-            Temukan promosi &amp; berita terbaru kami
+            Temukan berita &amp; promosi terbaru kami
           </h2>
 
           {/* Underlined Category Tabs (BRI Style) */}
@@ -99,7 +127,7 @@ export default function NewsPromoSection({ articles = [], onArticleView }) {
           </div>
 
           <p className="text-xs sm:text-sm text-slate-500 font-medium">
-            Lihat promosi dan kabar terbaru kami
+            Lihat berita dan promosi terbaru kami
           </p>
 
           <div>
@@ -161,7 +189,7 @@ export default function NewsPromoSection({ articles = [], onArticleView }) {
                     {/* Badge top right (BRI Style badge) */}
                     <div className="absolute top-3 right-3">
                       <span className="text-[10px] font-bold px-2.5 py-1 rounded-full bg-white/95 text-emerald-950 backdrop-blur-md shadow-xs">
-                        {art.badge || (art.type === 'berita' ? 'Promo Spesial' : 'Berita')}
+                        {art.badge || (art.type === 'promo' ? 'Promo Spesial' : 'Berita')}
                       </span>
                     </div>
                   </div>
@@ -183,7 +211,7 @@ export default function NewsPromoSection({ articles = [], onArticleView }) {
                   <div className="flex items-center gap-1.5 flex-wrap">
                     <span>
                       {art.type === 'promo' 
-                        ? `${art.date} - 2026-12-31` 
+                        ? `${art.date} - 2026-12-31`
                         : art.date
                       }
                     </span>
@@ -231,7 +259,7 @@ export default function NewsPromoSection({ articles = [], onArticleView }) {
                 </div>
               </div>
               <button
-                onClick={() => setSelectedArticle(null)}
+                onClick={handleCloseArticle}
                 className="p-2 rounded-full hover:bg-slate-100 text-slate-500 hover:text-slate-800 transition-colors cursor-pointer"
               >
                 <X className="w-5 h-5" />
@@ -347,7 +375,7 @@ export default function NewsPromoSection({ articles = [], onArticleView }) {
                 KSPPS Perambabulan Makmur Abadi
               </span>
               <button
-                onClick={() => setSelectedArticle(null)}
+                onClick={handleCloseArticle}
                 className="px-5 py-2.5 rounded-xl bg-emerald-700 hover:bg-emerald-800 text-white font-semibold text-xs sm:text-sm cursor-pointer"
               >
                 Tutup
