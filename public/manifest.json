@@ -1,0 +1,114 @@
+{
+  "name": "KSPPS Perambabulan Makmur Abadi",
+  "short_name": "KSPPS PMA",
+  "description": "Koperasi Simpan Pinjam & Pembiayaan Syariah Cirebon - Membangun Ekonomi Umat",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#064e3b",
+  "theme_color": "#064e3b",
+  "categories": ["finance", "business"],
+  "lang": "id",
+  "dir": "ltr",
+  "icons": [
+    {
+      "src": "./icons/icon-72x72.png",
+      "sizes": "72x72",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/icon-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/icon-128x128.png",
+      "sizes": "128x128",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/icon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/icon-152x152.png",
+      "sizes": "152x152",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/icon-384x384.png",
+      "sizes": "384x384",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "./banner1.png",
+      "sizes": "1983x793",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Beranda KSPPS PMA"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Simulasi Pinjaman",
+      "short_name": "Simulasi",
+      "description": "Hitung angsuran pinjaman syariah",
+      "url": "./?page=calculator",
+      "icons": [
+        {
+          "src": "./icons/icon-96x96.png",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "Produk & Layanan",
+      "short_name": "Produk",
+      "description": "Lihat produk simpanan dan pinjaman",
+      "url": "./?page=products",
+      "icons": [
+        {
+          "src": "./icons/icon-96x96.png",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "Kantor Cabang",
+      "short_name": "Cabang",
+      "description": "Lokasi kantor cabang KSPPS PMA",
+      "url": "./?page=branches",
+      "icons": [
+        {
+          "src": "./icons/icon-96x96.png",
+          "sizes": "96x96"
+        }
+      ]
+    }
+  ],
+  "related_applications": [],
+  "prefer_related_applications": false
+}
+

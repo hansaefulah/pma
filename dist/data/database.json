@@ -1,0 +1,1301 @@
+{
+  "banners": [
+    {
+      "id": "banner-video",
+      "title": "# Membangun Ekonomi Umat",
+      "subtitle": "Koperasi Simpan Pinjam dan Pembiayaan Syariah Perambabulan Makmur Abadi berkomitmen membangun ekonomi umat dengan prinsip syariah dan gotong royong.",
+      "tagline": "Video Profil KSPPS PMA Cirebon",
+      "mediaType": "video",
+      "videoUrl": "./uploads/1794239218336_717_gemini_generated_video_9a83cc5.mp4",
+      "imageUrl": "./banner1.png",
+      "link": "#about",
+      "ctaText": "Pelajari Selengkapnya",
+      "active": true
+    },
+    {
+      "id": "banner-1",
+      "title": "# Membangun Ekonomi Umat",
+      "subtitle": "Koperasi Simpan Pinjam dan Pembiayaan Syariah Perambabulan Makmur Abadi berkomitmen membangun ekonomi umat dengan prinsip syariah dan gotong royong.",
+      "tagline": "Lembaga Keuangan Syariah Amanah",
+      "imageUrl": "./banner1.png",
+      "link": "#about",
+      "ctaText": "Pelajari Selengkapnya",
+      "active": true
+    },
+    {
+      "id": "banner-2",
+      "title": "Ayo Menabung di KSPPS PMA!",
+      "subtitle": "Menabung Hari Ini, Untuk Masa Depan yang Lebih Baik. Aman, berkah, bagi hasil kompetitif dan bebas riba.",
+      "tagline": "Simpanan Syariah Berkah",
+      "imageUrl": "./banner2.png",
+      "link": "#products",
+      "ctaText": "Mulai Menabung",
+      "active": true
+    },
+    {
+      "id": "banner-3",
+      "title": "Kini Lebih Mudah dalam Genggaman",
+      "subtitle": "Aplikasi dan Layanan Digital KSPPS PMA hadir memudahkan cek saldo, riwayat transaksi, simulasi pinjaman, dan konsultasi syariah kapan saja.",
+      "tagline": "Layanan Digital Cepat & Aman",
+      "imageUrl": "./banner3.png",
+      "link": "#calculator",
+      "ctaText": "Hitung Simulasi Pinjaman",
+      "active": true
+    },
+    {
+      "title": "Hari Pahlawan 2026",
+      "subtitle": "",
+      "tagline": "#haripahlawan2026perambabulan",
+      "mediaType": "image",
+      "imageUrl": "./uploads/1794428041497_397_7f6677d1-c7e9-42b4-b4d7-ceb152.png",
+      "videoUrl": "",
+      "link": "#about",
+      "ctaText": "Pelajari Selengkapnya",
+      "active": true,
+      "id": "banner-1794428071940"
+    }
+  ],
+  "products": [
+    {
+      "name": "TAMASKOP",
+      "fullName": "Tabungan Anggota Masyarakat Koperasi",
+      "category": "simpanan",
+      "categoryLabel": "Produk Simpanan",
+      "akad": "Mudharabah Muthlaqah",
+      "shortDesc": "Tabungan Anggota Masyarakat Koperasi (Tamaskop), program simpanan KSPPS PMA untuk anggota koperasi.",
+      "fullDesc": "Tamaskop (Tabungan Anggota Masyarakat Koperasi) merupakan salah satu program simpanan yang dimiliki KSPPS PMA. Program ini menjadi bagian dari layanan simpanan koperasi yang mengedepankan prinsip kekeluargaan, saling menguntungkan, dan amanah.",
+      "badge": "Terpopuler | Simpanan Anggota",
+      "popular": true,
+      "minDeposit": "Rp 20.000",
+      "margin": "",
+      "tenor": "",
+      "maxLoan": "",
+      "benefits": [
+        "Program simpanan anggota koperasi.",
+        "Mengedepankan prinsip kekeluargaan.",
+        "Mengutamakan amanah."
+      ],
+      "requirements": [
+        "Fotokopi KTP / Identitas resmi",
+        "Mengisi formulir pembukaan rekening",
+        "Menjadi anggota KSPPS PMA"
+      ],
+      "contactPerson": {
+        "name": "Layanan Simpanan PMA",
+        "phone": "081111123124",
+        "waNumber": "081111123124"
+      },
+      "imageUrl": "./uploads/1794424321874_436_0ba2c570-7f9b-4e47-8281-69cafe.png",
+      "id": "tamaskop"
+    },
+    {
+      "name": "TAKOPNAS",
+      "fullName": "Tabungan Koperasi Anak Sekolah",
+      "category": "simpanan",
+      "categoryLabel": "Produk Simpanan",
+      "akad": "Mudharabah Muthlaqah",
+      "shortDesc": "Tabungan Koperasi Anak Sekolah (Takopnas), salah satu program simpanan yang tercantum dalam layanan KSPPS PMA.",
+      "fullDesc": "Takopnas (Tabungan Koperasi Anak Sekolah) merupakan salah satu produk simpanan KSPPS PMA. Produk ini termasuk dalam program layanan simpanan koperasi yang mengutamakan prinsip kekeluargaan, menguntungkan, dan amanah.",
+      "badge": "Untuk Pelajar | Simpanan Pendidikan",
+      "popular": false,
+      "minDeposit": "Rp 10.000",
+      "margin": "",
+      "tenor": "",
+      "maxLoan": "",
+      "benefits": [
+        "Termasuk program simpanan KSPPS PMA.",
+        "Mengedepankan prinsip kekeluargaan.",
+        "Berlandaskan prinsip amanah."
+      ],
+      "requirements": [
+        "Fotokopi Kartu Pelajar / Akta Kelahiran",
+        "Fotokopi KTP Orang Tua / Wali",
+        "Formulir pendaftaran"
+      ],
+      "contactPerson": {
+        "name": "Tim Edukasi Sekolah PMA",
+        "phone": "081111123124",
+        "waNumber": "081111123124"
+      },
+      "imageUrl": "./uploads/1794239534765_910_8a7b26ed-a6bc-4e4b-929a-a98797.png",
+      "id": "takopnas"
+    },
+    {
+      "name": "TAQORUB",
+      "fullName": "Tabungan Qurban",
+      "category": "simpanan",
+      "categoryLabel": "Produk Simpanan",
+      "akad": "Mudharabah Muthlaqah",
+      "shortDesc": "Rencana qurban tahunan dengan setoran bertahap sesuai kemampuan.",
+      "fullDesc": "Tabungan berjangka syariah yang mempermudah niat ibadah qurban Idul Adha Anda. Koperasi juga menyediakan fasilitas pembelian hewan qurban sehat bersertifikat.",
+      "badge": "Program Ibadah",
+      "popular": false,
+      "minDeposit": "Rp 50.000",
+      "margin": "",
+      "tenor": "",
+      "maxLoan": "",
+      "benefits": [
+        "Jadwal setoran fleksibel (harian, mingguan, bulanan)",
+        "Bebas biaya transfer ke penyedia hewan qurban",
+        "Pencairan tepat waktu menjelang Hari Raya Idul Adha",
+        "Dapat disalurkan langsung melalui panitia qurban desa/masjid"
+      ],
+      "requirements": [
+        "KTP & Formulir Pendaftaran",
+        "Pilihan target nominal qurban kambing/sapi"
+      ],
+      "contactPerson": {
+        "name": "Layanan Qurban Syariah",
+        "phone": "081111123124",
+        "waNumber": "081111123124"
+      },
+      "imageUrl": "./uploads/1794239544561_132_8a7b26ed-a6bc-4e4b-929a-a98797.png",
+      "id": "taqorub"
+    },
+    {
+      "name": "TAHARA",
+      "fullName": "Tabungan Hari Raya",
+      "category": "simpanan",
+      "categoryLabel": "Produk Simpanan",
+      "akad": "Mudharabah Muthlaqah",
+      "shortDesc": "Persiapan hari raya dengan pencairan menjelang Idul Fitri.",
+      "fullDesc": "Tabungan rencana untuk menyambut hari raya Idul Fitri dengan gembira tanpa pusing biaya baju lebaran, mudik, maupun jamuan keluarga.",
+      "badge": "Favorit Keluarga",
+      "popular": false,
+      "minDeposit": "Rp 25.000",
+      "margin": "",
+      "tenor": "",
+      "maxLoan": "",
+      "benefits": [
+        "Pencairan serentak H-14 sebelum Idul Fitri",
+        "Bagi hasil menarik khusus paket hari raya",
+        "Souvenir dan bingkisan lebaran menarik bagi penabung aktif"
+      ],
+      "requirements": [
+        "KTP & Kartu Keluarga",
+        "Formulir keikutsertaan TAHARA"
+      ],
+      "contactPerson": {
+        "name": "Layanan Hari Raya PMA",
+        "phone": "081111123124",
+        "waNumber": "081111123124"
+      },
+      "imageUrl": "./uploads/1794239574191_220_8a7b26ed-a6bc-4e4b-929a-a98797.png",
+      "id": "tahara"
+    },
+    {
+      "name": "PRODUKTIF",
+      "fullName": "Pembiayaan Produktif",
+      "category": "pinjaman",
+      "categoryLabel": "Produk Pinjaman",
+      "akad": "-",
+      "shortDesc": "Pembiayaan produktif untuk modal usaha dan investasi yang bertujuan menghasilkan pendapatan serta meningkatkan kapasitas produksi dan keuntungan usaha.",
+      "fullDesc": "Pembiayaan produktif merupakan pembiayaan untuk modal usaha dan investasi yang bertujuan menghasilkan pendapatan. Pembiayaan ini dapat digunakan untuk berbagai kebutuhan usaha, seperti:\n- Modal kerja.\n- Pembelian alat-alat pertanian.\n- Pengembangan usaha.\nTujuannya adalah mendukung pertumbuhan ekonomi dengan meningkatkan kapasitas produksi dan keuntungan. Sumber pelunasannya umumnya berasal dari keuntungan usaha itu sendiri.",
+      "badge": "Pembiayaan Usaha",
+      "popular": true,
+      "minDeposit": "Rp 20.000",
+      "margin": "1.2% / bln",
+      "tenor": "12 - 36 Bulan",
+      "maxLoan": "Rp 50.000.000",
+      "benefits": [
+        "Mendukung kebutuhan modal usaha.",
+        "Dapat digunakan untuk investasi produktif.",
+        "Mendukung peningkatan kapasitas produksi.",
+        "Mendukung pengembangan usaha."
+      ],
+      "requirements": [],
+      "contactPerson": {
+        "name": "Layanan Nasabah PMA",
+        "phone": "081111123124",
+        "waNumber": "081111123124"
+      },
+      "imageUrl": "./uploads/1794424336612_129_fe4b63fd-0823-4a15-b36f-8e3513.png",
+      "id": "prod-1794423631388"
+    },
+    {
+      "name": "KONSUMTIF",
+      "fullName": "Pembiayaan Konsumtif",
+      "category": "pinjaman",
+      "categoryLabel": "Produk Pinjaman",
+      "akad": "-",
+      "shortDesc": "Pembiayaan konsumtif untuk memenuhi kebutuhan pribadi seperti pembelian barang, kendaraan, biaya pendidikan, pernikahan, dan renovasi rumah.",
+      "fullDesc": "Pembiayaan konsumtif merupakan produk pembiayaan untuk memenuhi kebutuhan pribadi, seperti membeli barang (gawai dan kendaraan) atau biaya jasa (pendidikan, pernikahan, dan renovasi rumah).\n\nPembiayaan ini bukan untuk kegiatan usaha yang menghasilkan keuntungan finansial. Sistem pembayarannya menggunakan angsuran bulanan.\n\nTujuannya adalah untuk membiayai kebutuhan hidup atau kebutuhan sehari-hari yang bersifat menghabiskan (habis pakai).",
+      "badge": "Pembiayaan Pribadi",
+      "popular": false,
+      "minDeposit": "Rp 20.000",
+      "margin": "1.2% / bln",
+      "tenor": "12 - 36 Bulan",
+      "maxLoan": "Rp 50.000.000",
+      "benefits": [
+        "Membantu memenuhi kebutuhan pribadi.",
+        "Dapat digunakan untuk pembelian barang.",
+        "Dapat digunakan untuk kebutuhan pendidikan.",
+        "Dapat digunakan untuk renovasi rumah.",
+        "Pembayaran menggunakan sistem angsuran bulanan."
+      ],
+      "requirements": [],
+      "contactPerson": {
+        "name": "Layanan Nasabah PMA",
+        "phone": "081111123124",
+        "waNumber": "081111123124"
+      },
+      "imageUrl": "./uploads/1794423752092_532_8a7b26ed-a6bc-4e4b-929a-a98797.png",
+      "id": "prod-1794423722760"
+    },
+    {
+      "name": "TALANGANHAJI",
+      "fullName": "Talangan Pembiayaan Pendaftaran Ibadah Haji",
+      "category": "pembiayaan",
+      "categoryLabel": "Produk Pembiayaan",
+      "akad": "-",
+      "shortDesc": "Talangan Pembiayaan Pendaftaran Ibadah Haji untuk membantu proses pendaftaran ibadah haji. Dengan biaya minimal Rp2.500.000, calon jamaah dapat memperoleh porsi.",
+      "fullDesc": "Talangan Pembiayaan Pendaftaran Ibadah Haji merupakan layanan pembiayaan KSPPS PMA yang ditujukan untuk membantu masyarakat dalam proses pendaftaran ibadah haji.\n\nBerdasarkan informasi dalam buku produk, layanan ini memberikan kemudahan bagi masyarakat untuk mendaftar haji dengan biaya minimal Rp2.500.000 (dua juta lima ratus ribu rupiah) per orang agar dapat memperoleh porsi.",
+      "badge": "Pembiayaan Ibadah Haji",
+      "popular": true,
+      "minDeposit": "Rp 20.000",
+      "margin": "1.2% / bln",
+      "tenor": "12 - 36 Bulan",
+      "maxLoan": "Rp 50.000.000",
+      "benefits": [
+        "Membantu proses pendaftaran ibadah haji.",
+        "Mempermudah masyarakat memperoleh porsi haji.",
+        "Biaya minimal Rp2.500.000 per orang sesuai buku produk."
+      ],
+      "requirements": [],
+      "contactPerson": {
+        "name": "Layanan Nasabah PMA",
+        "phone": "081111123124",
+        "waNumber": "081111123124"
+      },
+      "imageUrl": "./uploads/1794424345659_550_840e124c-b20b-4999-aafa-5eba9a.png",
+      "id": "prod-1794423844672"
+    }
+  ],
+  "articles": [
+    {
+      "title": "Selamat Hari Kesehatan Nasional ke-62 Tahun 2026",
+      "type": "berita",
+      "badge": "Hari Kesehatan Nasional ",
+      "summary": "KSPPS Perambabulan Makmur Abadi mengucapkan Selamat Memperingati Hari Kesehatan Nasional ke-62 Tahun 2026 dengan tema “Sehat untuk Semua”. Mari bersama meningkatkan kesadaran akan pentingnya pola hidup sehat, menjaga kebersihan, serta membangun kepedulian terhadap kesehatan diri, keluarga, dan lingkungan demi mewujudkan masyarakat yang sehat, produktif, dan sejahtera.",
+      "content": "Dalam rangka memperingati Hari Kesehatan Nasional ke-62 Tahun 2026, KSPPS Perambabulan Makmur Abadi mengajak seluruh masyarakat untuk menjadikan kesehatan sebagai bagian penting dalam kehidupan sehari-hari.\n\nMengusung tema “Sehat untuk Semua”, momentum ini menjadi pengingat bahwa kesehatan merupakan hak dan kebutuhan setiap orang. Masyarakat yang sehat adalah fondasi penting dalam membangun keluarga yang kuat, lingkungan yang produktif, serta bangsa yang lebih maju.\n\nMari mulai dari langkah sederhana, seperti menerapkan pola hidup sehat, menjaga kebersihan lingkungan, mengonsumsi makanan bergizi, rutin berolahraga, dan meningkatkan kepedulian terhadap kesehatan sesama.\n\nKSPPS Perambabulan Makmur Abadi percaya bahwa kesejahteraan masyarakat tidak hanya dibangun melalui kekuatan ekonomi, tetapi juga didukung oleh kualitas hidup dan kesehatan yang baik.\n\nSehat untuk Semua, Sehat Bersama, Menuju Indonesia Sehat.\n\nSelamat Hari Kesehatan Nasional ke-62!\n12 November 2026.\n\nKSPPS Perambabulan Makmur Abadi\nBersama Membangun Kesejahteraan.",
+      "imageUrl": "./uploads/1794429979471_704_5db29f82-32e5-45eb-84dc-406119.png",
+      "date": "2026-11-11",
+      "author": "Admin PMA",
+      "active": true,
+      "id": "art-1794429980828",
+      "views": 2
+    },
+    {
+      "title": "Selamat Hari Pahlawan 2026",
+      "type": "berita",
+      "badge": "Hari Pahlawan ",
+      "summary": "KSPPS Perambabulan Makmur Abadi mengucapkan Selamat Memperingati Hari Pahlawan 10 November 2026. Mari mengenang jasa dan pengorbanan para pahlawan dengan melanjutkan perjuangan melalui semangat persatuan, kepedulian, kerja keras, dan kontribusi nyata untuk Indonesia yang lebih maju dan sejahtera.",
+      "content": "Dalam rangka memperingati Hari Pahlawan 10 November 2026, KSPPS Perambabulan Makmur Abadi mengajak seluruh masyarakat untuk mengenang jasa, perjuangan, dan pengorbanan para pahlawan bangsa yang telah berjuang demi kemerdekaan Indonesia.\n\nSemangat kepahlawanan bukan hanya tentang perjuangan di masa lalu, tetapi juga tentang bagaimana kita meneruskan nilai-nilai perjuangan dalam kehidupan sehari-hari.\n\nMari menjadi pahlawan masa kini dengan menumbuhkan semangat gotong royong, memperkuat persatuan, meningkatkan kepedulian sosial, serta memberikan kontribusi positif bagi masyarakat dan bangsa.\n\nMelalui semangat kebersamaan, KSPPS Perambabulan Makmur Abadi terus berkomitmen untuk mendukung pemberdayaan ekonomi umat dan membangun kesejahteraan masyarakat.\n\nPahlawanku Teladanku, Terus Bergerak Melanjutkan Perjuangan.\n\nSelamat Hari Pahlawan 10 November 2026!\n\nKSPPS Perambabulan Makmur Abadi\nBersama Membangun Kesejahteraan.",
+      "imageUrl": "./uploads/1794429732515_747_8cd32ece-faf7-4c30-bc77-2d0b30.png",
+      "date": "2026-11-11",
+      "author": "Admin PMA",
+      "active": true,
+      "id": "art-1794429758803",
+      "views": 1
+    },
+    {
+      "id": "art-3",
+      "type": "promo",
+      "title": "Program Pembiayaan UMKM Konveksi & Jahit: Margin Super Ringan 0.8%",
+      "slug": "pembiayaan-umkm-konveksi",
+      "summary": "Mendukung tradisi penjahit lokal Cirebon, KSPPS PMA memberikan fasilitas pembiayaan mesin jahit dan bahan baku modal kerja dengan proses cepat 1 hari kerja.",
+      "content": "Sebagai koperasi yang lahir dari inisiatif para penjahit desa Bamabupa sejak tahun 1995, KSPPS PMA senantiasa menaruh perhatian besar pada para pengrajin, penjahit, dan pelaku UMKM lokal.\n\nMelalui skema Murabahah khusus mesin jahit industri, bordir, dan bahan baku kain, anggota dapat mengajukan pembiayaan dengan margin khusus 0.8% flat per bulan, tanpa denda dan proses verifikasi cepat satu hari kerja.\n\nSilakan hubungi customer service kami atau ajukan langsung lewat kalkulator pinjaman di website ini!",
+      "date": "2026-02-05",
+      "badge": "Promo UMKM",
+      "imageUrl": "https://images.unsplash.com/photo-1556740758-90de374c12ad?auto=format&fit=crop&w=800&q=80",
+      "author": "Divisi Pembiayaan",
+      "views": 614,
+      "active": true
+    }
+  ],
+  "team": [
+    {
+      "name": "Pandi, S.E",
+      "role": "Ketua",
+      "title": "Ketua KSPPS PMA",
+      "photoUrl": "./uploads/1794418593113_803_9ebb76b3-9e2c-4287-ab76-784bf0.png",
+      "bio": "Tokoh penggerak ekonomi umat yang memelopori terbentuknya kelompok penjahit Bamabupa pada tahun 1995 hingga berkembang menjadi KSPPS PMA berbadan hukum nasional.",
+      "quote": "\"Ekonomi umat akan bangkit manakala kita saling menguatkan dalam kejujuran, gotong royong, dan syariat Islam.\"",
+      "cv": {
+        "birthPlace": "Cirebon",
+        "pendidikan": [],
+        "pengalaman": [],
+        "sertifikasi": [],
+        "penghargaan": [
+          "Tokoh Penggerak Koperasi Tingkat Kabupaten Cirebon (2019)",
+          "Pengabdi Ekonomi Kerakyatan Syariah Jawa Barat (2023)"
+        ]
+      },
+      "id": "founder-1"
+    },
+    {
+      "name": "Makula, S.E",
+      "role": "Wakil Ketua",
+      "title": "Wakil Ketua KSPPS PMA",
+      "photoUrl": "./uploads/1794419009330_117_6ba8ec02-ef95-44a8-bb7a-d567e0.png",
+      "bio": "Praktisi perkoperasian berpengalaman lebih dari 20 tahun dalam manajemen perbankan dan koperasi jasa keuangan mikro syariah di wilayah III Cirebon.",
+      "quote": "\"Melayani dengan hati, mengawal amanah dengan teknologi modern dan keteguhan syariah.\"",
+      "cv": {
+        "birthPlace": "Cirebon",
+        "pendidikan": [],
+        "pengalaman": [],
+        "sertifikasi": [],
+        "penghargaan": [
+          "Pengelola Koperasi Berprestasi Tingkat Provinsi Jawa Barat (2022)"
+        ]
+      },
+      "id": "pengurus-1"
+    },
+    {
+      "name": "H. Sadikin, S.Ag, M.M",
+      "role": "Sekretaris I",
+      "title": "Sekretaris I KSPPS PMA",
+      "photoUrl": "./uploads/1794418651645_923_7474eca9-0757-43e1-9705-165db3.png",
+      "bio": "Pakar tata kelola kelembagaan dan transformasi digital koperasi syariah yang mengawal integrasi layanan mobile dan modernisasi administrasi anggota.",
+      "quote": "\"Koperasi modern adalah koperasi yang adaptif terhadap teknologi tanpa meninggalkan akar nilai gotong royong.\"",
+      "cv": {
+        "birthPlace": "Cirebon",
+        "pendidikan": [],
+        "pengalaman": [],
+        "sertifikasi": [],
+        "penghargaan": [
+          "Inovator Digitalisasi Koperasi Desa Cirebon (2023)"
+        ]
+      },
+      "id": "pengurus-2"
+    },
+    {
+      "name": "Kumaedi, S.Pd.I",
+      "role": "Sekretaris II",
+      "title": "Sekretaris II KSPPS PMA",
+      "photoUrl": "./uploads/1794419019052_585_666a940d-ec69-4df4-be26-c731d0.png",
+      "bio": "Akuntan syariah profesional yang mengawasi kepatuhan tata kelola keuangan, likuiditas, dan pembagian hasil usaha yang adil bagi seluruh anggota.",
+      "quote": "\"Setiap rupiah tabungan anggota adalah titipan yang wajib dipertanggungjawabkan di dunia dan akhirat.\"",
+      "cv": {
+        "birthPlace": "Cirebon",
+        "pendidikan": [],
+        "pengalaman": [],
+        "sertifikasi": [],
+        "penghargaan": [
+          "Penyusun Laporan Keuangan Koperasi Berpredikat Wajar Tanpa Pengecualian (WTP) Berturut-turut"
+        ]
+      },
+      "id": "pengurus-3"
+    },
+    {
+      "name": "Amir",
+      "role": "Bendahara",
+      "title": "Bendahara KSPPS PMA",
+      "photoUrl": "./uploads/1794419024631_925_d169820b-1f9a-40ec-866d-190e64.png",
+      "bio": "Ulama ahli fiqih muamalah lulusan Al-Azhar Kairo yang memastikan setiap akad, transaksi, dan produk KSPPS PMA 100% selaras dengan fatwa DSN-MUI.",
+      "quote": "\"Keberkahan bukan hanya tentang keuntungan, melainkan tentang kesesuaian setiap langkah dengan ridho Allah SWT.\"",
+      "cv": {
+        "birthPlace": "Cirebon",
+        "pendidikan": [],
+        "pengalaman": [],
+        "sertifikasi": [],
+        "penghargaan": [
+          "Pendidik & Pembina Muamalah Syariah Teladan Cirebon"
+        ]
+      },
+      "id": "dps-1"
+    },
+    {
+      "name": "Edi Ruhaedi",
+      "role": "Ketua Pengawas",
+      "title": "Ketua Pengawas KSPPS PMA",
+      "photoUrl": "./uploads/1794419719574_118_8d5893be-a835-4b33-965c-dc9378.png",
+      "bio": "",
+      "quote": "",
+      "cv": {
+        "birthPlace": "Cirebon",
+        "pendidikan": [],
+        "pengalaman": [],
+        "sertifikasi": [],
+        "penghargaan": [
+          "Tokoh Penggerak Koperasi"
+        ]
+      },
+      "id": "team-1794419724610"
+    },
+    {
+      "name": "H. Tasadi",
+      "role": "Anggota Pengawas",
+      "title": "Anggota Pengawas KSPPS PMA",
+      "photoUrl": "./uploads/1794419763195_124_370218e0-e5f7-4320-bd49-db9be8.png",
+      "bio": "",
+      "quote": "",
+      "cv": {
+        "birthPlace": "Cirebon",
+        "pendidikan": [],
+        "pengalaman": [],
+        "sertifikasi": [],
+        "penghargaan": [
+          "Tokoh Penggerak Koperasi"
+        ]
+      },
+      "id": "team-1794419767731"
+    },
+    {
+      "name": "H. Rodadi",
+      "role": "Anggota Pengawas",
+      "title": "Anggota Pengawas KSPPS PMA",
+      "photoUrl": "./uploads/1794419840003_225_ddc9ae8a-d0fb-45cc-9586-d7ecbd.png",
+      "bio": "",
+      "quote": "",
+      "cv": {
+        "birthPlace": "Cirebon",
+        "pendidikan": [],
+        "pengalaman": [],
+        "sertifikasi": [],
+        "penghargaan": [
+          "Tokoh Penggerak Koperasi"
+        ]
+      },
+      "id": "team-1794419844201"
+    }
+  ],
+  "branches": [
+    {
+      "id": "cabang-mertapada",
+      "name": "KSPPS PMA Cabang Babadan",
+      "tagline": "Kantor Layanan Utama & Pusat",
+      "address": "Jl. Ki Gede Mayung No.24 Desa Babadan Kec. Gunung Jati, Kabupaten Cirebon, Jawa Barat 45151",
+      "phone": "081111123124",
+      "waNumber": "6281312629486",
+      "email": "ksppspmamertapadakulon@gmail.com",
+      "operationalHours": "Senin - Jumat: 08.00 - 16.00 WIB | Sabtu: 08.00 - 14.00 WIB | Minggu: Tutup",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jl.+Pasar+Mundu+No.+123,+Mertapada+Kulon,+Astanajapura,+Kabupaten+Cirebon,+Jawa+Barat+45181",
+      "isPusat": true
+    },
+    {
+      "id": "cabang-celancang",
+      "name": "KSPPS PMA Cabang Pasar Celancang",
+      "tagline": "Layanan Sentra Pedagang & Pasar",
+      "address": "Jl. Pasar Celancang, Karangwangi, Depok, Kabupaten Cirebon, Jawa Barat",
+      "phone": "0813-0000-0001",
+      "waNumber": "6281300000001",
+      "email": "ksppspma.celancang@gmail.com",
+      "operationalHours": "Senin - Jumat: 08.00 - 16.00 WIB | Sabtu: 08.00 - 14.00 WIB | Minggu: Tutup",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jl.+Pasar+Celancang,+Karangwangi,+Depok,+Kabupaten+Cirebon,+Jawa+Barat",
+      "isPusat": false
+    },
+    {
+      "id": "cabang-gunungjati",
+      "name": "KSPPS PMA Cabang Mertapada Kulon",
+      "tagline": "Layanan Religi & Kawasan Utara",
+      "address": "Jl. Pasar Mundu No. 123, Mertapada Kulon, Astanajapura, Kabupaten Cirebon, Jawa Barat 45181",
+      "phone": "0813-1262-9486",
+      "waNumber": "6281300000002",
+      "email": "ksppspma.gunungjati@gmail.com",
+      "operationalHours": "Senin - Jumat: 08.00 - 16.00 WIB | Sabtu: 08.00 - 14.00 WIB | Minggu: Tutup",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jl.+Sunan+Gunung+Jati,+Cirebon+Utara,+Jawa+Barat",
+      "isPusat": false
+    }
+  ],
+  "applications": [
+    {
+      "id": "APP-611969",
+      "applicantName": "cona",
+      "phone": "0899999",
+      "email": "hans@gmail.com",
+      "branch": "KSPPS PMA Cabang Mertapada Kulon",
+      "amount": 110000,
+      "tenor": 12,
+      "purpose": "hans\n",
+      "productType": "TAHARA (Mudharabah Muthlaqah)",
+      "monthlyInstallment": 9240,
+      "status": "Baru",
+      "createdAt": "09/11/26, 23.50",
+      "notes": "Pengajuan melalui website PMA (TAHARA (Mudharabah Muthlaqah))"
+    },
+    {
+      "id": "app-001",
+      "applicantName": "Budi Santoso",
+      "phone": "081234567890",
+      "email": "budi.santoso@email.com",
+      "branch": "KSPPS PMA Cabang Mertapada Kulon",
+      "productType": "PINJAMAN USAHA (Murabahah)",
+      "amount": 25000000,
+      "tenor": 12,
+      "monthlyInstallment": 2283333,
+      "purpose": "Penambahan stok kain dan bahan konveksi gamis",
+      "status": "Baru",
+      "createdAt": "2026-11-08 14:20",
+      "notes": "Pemohon memiliki toko baju di Pasar Mundu, sudah berjalan 4 tahun."
+    },
+    {
+      "id": "app-002",
+      "applicantName": "Siti Maryam",
+      "phone": "085799988771",
+      "email": "siti.maryam@gmail.com",
+      "branch": "KSPPS PMA Cabang Pasar Celancang",
+      "productType": "PINJAMAN PENDIDIKAN (Qardh)",
+      "amount": 10000000,
+      "tenor": 6,
+      "monthlyInstallment": 1750000,
+      "purpose": "Biaya registrasi semester anak kuliah di IAIN Cirebon",
+      "status": "Dihubungi",
+      "createdAt": "2026-11-07 10:15",
+      "notes": "Sudah dihubungi admin via WA, berkas KK dan KTP sedang disiapkan."
+    }
+  ],
+  "contactMessages": [
+    {
+      "id": "msg-001",
+      "name": "Hendra Gunawan",
+      "phone": "081987654321",
+      "email": "hendra.gun@yahoo.com",
+      "branch": "KSPPS PMA Cabang Gunung Jati",
+      "subject": "Konsultasi Tabungan Qurban TAQORUB",
+      "message": "Assalamu alaikum, saya mau tanya apakah untuk qurban sapi kelompok bisa dikoordinir langsung oleh KSPPS PMA? Terima kasih.",
+      "status": "Belum Dibalas",
+      "createdAt": "2026-11-09 09:12"
+    },
+    {
+      "id": "msg-002",
+      "name": "Nurul Hidayati",
+      "phone": "082212344321",
+      "email": "nurul.h@gmail.com",
+      "branch": "KSPPS PMA Cabang Mertapada Kulon",
+      "subject": "Pendaftaran Anggota Koperasi",
+      "message": "Selamat pagi, syarat untuk menjadi anggota dan membuka tabungan TAMASKOP apa saja ya pak? Apakah bisa dijemput ke rumah?",
+      "status": "Sudah Dibalas",
+      "createdAt": "2026-11-06 16:45"
+    }
+  ],
+  "visitorStats": {
+    "total": 14864,
+    "today": 575,
+    "todayDate": "2026-11-11",
+    "monthly": 4419,
+    "online": 6,
+    "devices": {
+      "mobile": 68,
+      "desktop": 52,
+      "tablet": 4
+    },
+    "browsers": {
+      "Chrome": 86,
+      "Safari": 15,
+      "Edge": 18,
+      "Firefox": 5
+    },
+    "popularPages": {
+      "home": 7427,
+      "products": 4181,
+      "calculator": 2861,
+      "about": 1451,
+      "branches": 921,
+      "news": 2,
+      "adminkspps": 1
+    },
+    "dailyHistory": [
+      {
+        "date": "05 Nov",
+        "visits": 118
+      },
+      {
+        "date": "06 Nov",
+        "visits": 135
+      },
+      {
+        "date": "07 Nov",
+        "visits": 110
+      },
+      {
+        "date": "08 Nov",
+        "visits": 148
+      },
+      {
+        "date": "09 Nov",
+        "visits": 162
+      },
+      {
+        "date": "10 Nov",
+        "visits": 150
+      },
+      {
+        "date": "11 Nov",
+        "visits": 142
+      }
+    ],
+    "recentLogs": [
+      {
+        "id": 1794430733019,
+        "time": "03.58.53 WIB",
+        "page": "Portal Administrator",
+        "device": "Windows PC (Chrome)",
+        "ip": "127.0.0.1 (Localhost)",
+        "status": "Aktif"
+      },
+      {
+        "id": 1794430728469,
+        "time": "03.58.48 WIB",
+        "page": "Beranda Utama",
+        "device": "Windows PC (Chrome)",
+        "ip": "127.0.0.1 (Localhost)",
+        "status": "Aktif"
+      },
+      {
+        "id": 1794430651570,
+        "time": "03.57.31 WIB",
+        "page": "Beranda Utama",
+        "device": "Windows PC (Chrome)",
+        "ip": "127.0.0.1 (Localhost)",
+        "status": "Aktif"
+      },
+      {
+        "id": 1794430631553,
+        "time": "03.57.11 WIB",
+        "page": "Berita & Promo",
+        "device": "Windows PC (Chrome)",
+        "ip": "127.0.0.1 (Localhost)",
+        "status": "Aktif"
+      },
+      {
+        "id": 1794430630860,
+        "time": "03.57.10 WIB",
+        "page": "Kantor Cabang",
+        "device": "Windows PC (Chrome)",
+        "ip": "127.0.0.1 (Localhost)",
+        "status": "Aktif"
+      },
+      {
+        "id": 1794430630162,
+        "time": "03.57.10 WIB",
+        "page": "Berita & Promo",
+        "device": "Windows PC (Chrome)",
+        "ip": "127.0.0.1 (Localhost)",
+        "status": "Aktif"
+      },
+      {
+        "id": 1794430629605,
+        "time": "03.57.09 WIB",
+        "page": "Tentang Kami & Pengurus",
+        "device": "Windows PC (Chrome)",
+        "ip": "127.0.0.1 (Localhost)",
+        "status": "Aktif"
+      },
+      {
+        "id": 1794430628122,
+        "time": "03.57.08 WIB",
+        "page": "Simulasi Pinjaman",
+        "device": "Windows PC (Chrome)",
+        "ip": "127.0.0.1 (Localhost)",
+        "status": "Aktif"
+      },
+      {
+        "id": 1794430627155,
+        "time": "03.57.07 WIB",
+        "page": "Produk & Layanan",
+        "device": "Windows PC (Chrome)",
+        "ip": "127.0.0.1 (Localhost)",
+        "status": "Aktif"
+      },
+      {
+        "id": 1794430599680,
+        "time": "03.56.39 WIB",
+        "page": "Beranda Utama",
+        "device": "Windows PC (Chrome)",
+        "ip": "127.0.0.1 (Localhost)",
+        "status": "Aktif"
+      },
+      {
+        "id": 1794430506339,
+        "time": "03.55.06 WIB",
+        "page": "Beranda Utama",
+        "device": "Windows PC (Chrome)",
+        "ip": "127.0.0.1 (Localhost)",
+        "status": "Aktif"
+      },
+      {
+        "id": 1794429921818,
+        "time": "03.45.21 WIB",
+        "page": "Beranda Utama",
+        "device": "Windows PC (Chrome)",
+        "ip": "127.0.0.1 (Localhost)",
+        "status": "Aktif"
+      },
+      {
+        "id": 1794429772746,
+        "time": "03.42.52 WIB",
+        "page": "Beranda Utama",
+        "device": "Windows PC (Chrome)",
+        "ip": "127.0.0.1 (Localhost)",
+        "status": "Aktif"
+      },
+      {
+        "id": 1794429772697,
+        "time": "03.42.52 WIB",
+        "page": "Beranda Utama",
+        "device": "Windows PC (Chrome)",
+        "ip": "127.0.0.1 (Localhost)",
+        "status": "Aktif"
+      },
+      {
+        "id": 1794422016222,
+        "time": "Baru saja",
+        "page": "Beranda (Home)",
+        "device": "Mobile Android",
+        "ip": "180.160.***.***",
+        "status": "Aktif"
+      },
+      {
+        "id": 1794422016033,
+        "time": "Baru saja",
+        "page": "Beranda (Home)",
+        "device": "Mobile Android",
+        "ip": "180.220.***.***",
+        "status": "Aktif"
+      },
+      {
+        "id": 1794422015852,
+        "time": "Baru saja",
+        "page": "Beranda (Home)",
+        "device": "Mobile Android",
+        "ip": "180.150.***.***",
+        "status": "Aktif"
+      },
+      {
+        "id": 1794422015691,
+        "time": "Baru saja",
+        "page": "Beranda (Home)",
+        "device": "Mobile Android",
+        "ip": "180.176.***.***",
+        "status": "Aktif"
+      },
+      {
+        "id": 1794422015531,
+        "time": "Baru saja",
+        "page": "Beranda (Home)",
+        "device": "Mobile Android",
+        "ip": "180.237.***.***",
+        "status": "Aktif"
+      },
+      {
+        "id": 1794422015341,
+        "time": "Baru saja",
+        "page": "Beranda (Home)",
+        "device": "Mobile Android",
+        "ip": "180.214.***.***",
+        "status": "Aktif"
+      }
+    ]
+  },
+  "financialReports": {
+    "years": [
+      "2021",
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "aktiva": {
+      "title": "Perkembangan Aset (Aktiva)",
+      "subtitle": "Data Perkembangan Aset Tahun 2021 s.d 2025 (Dalam Rupiah)",
+      "unit": "Rp",
+      "items": [
+        {
+          "id": "aktiva-1",
+          "name": "Aktiva Lancar",
+          "color": "#10b981",
+          "values": {
+            "2021": 28596372414,
+            "2022": 29560567779,
+            "2023": 30307890217,
+            "2024": 29020502088,
+            "2025": 32324691933
+          }
+        },
+        {
+          "id": "aktiva-2",
+          "name": "Aktiva Tetap",
+          "color": "#059669",
+          "values": {
+            "2021": 1525277203,
+            "2022": 2220612203,
+            "2023": 2377691203,
+            "2024": 2608158397,
+            "2025": 2743271803
+          }
+        },
+        {
+          "id": "aktiva-3",
+          "name": "Aktiva Lain-lain",
+          "color": "#047857",
+          "values": {
+            "2021": 228316695,
+            "2022": 240316640,
+            "2023": 1436316640,
+            "2024": 2044928342,
+            "2025": 679698656
+          }
+        }
+      ]
+    },
+    "pasiva": {
+      "title": "Pasiva",
+      "subtitle": "Kewajiban, Modal Sendiri, dan SHU Tahun 2021 s.d 2025 (Dalam Rupiah)",
+      "unit": "Rp",
+      "items": [
+        {
+          "id": "pasiva-1",
+          "name": "Kewajiban",
+          "color": "#3b82f6",
+          "values": {
+            "2021": 32704318849,
+            "2022": 35137866659,
+            "2023": 37611138382,
+            "2024": 33673588827,
+            "2025": 35765662392
+          }
+        },
+        {
+          "id": "pasiva-2",
+          "name": "Modal Sendiri",
+          "color": "#2563eb",
+          "values": {
+            "2021": 1960532985,
+            "2022": 2346699610,
+            "2023": 2635572988,
+            "2024": 2888539177,
+            "2025": 3154121214
+          }
+        },
+        {
+          "id": "pasiva-3",
+          "name": "SHU",
+          "color": "#1d4ed8",
+          "values": {
+            "2021": 197090445,
+            "2022": 350321171,
+            "2023": 443248235,
+            "2024": 186387242,
+            "2025": 164745654
+          }
+        }
+      ]
+    },
+    "permodalan": {
+      "title": "Permodalan",
+      "subtitle": "Simpanan Anggota dan Simpanan Sukarela Tahun 2021 s.d 2025 (Dalam Rupiah)",
+      "unit": "Rp",
+      "items": [
+        {
+          "id": "modal-1",
+          "group": "Simpanan Anggota",
+          "name": "Simpanan Pokok",
+          "color": "#f59e0b",
+          "values": {
+            "2021": 182558500,
+            "2022": 205688500,
+            "2023": 228489000,
+            "2024": 378380167,
+            "2025": 389952814
+          }
+        },
+        {
+          "id": "modal-2",
+          "group": "Simpanan Anggota",
+          "name": "Simpanan Wajib",
+          "color": "#d97706",
+          "values": {
+            "2021": 1205436533,
+            "2022": 1394424373,
+            "2023": 1524320029,
+            "2024": 1834376849,
+            "2025": 2076850897
+          }
+        },
+        {
+          "id": "modal-3",
+          "group": "Simpanan Sukarela",
+          "name": "Simp. Tamaskop",
+          "color": "#b45309",
+          "values": {
+            "2021": 17068773271,
+            "2022": 17437008533,
+            "2023": 17275126602,
+            "2024": 17418083623,
+            "2025": 19342228069
+          }
+        },
+        {
+          "id": "modal-4",
+          "group": "Simpanan Sukarela",
+          "name": "Simp. Berjangka",
+          "color": "#78350f",
+          "values": {
+            "2021": 9304100000,
+            "2022": 10372500000,
+            "2023": 10945460000,
+            "2024": 8562500000,
+            "2025": 9157000000
+          }
+        }
+      ]
+    },
+    "usahaKeuangan": {
+      "title": "Data Usaha dan Keuangan",
+      "subtitle": "Pembiayaan, Pendapatan Bruto, dan SHU Sebelum Pajak Tahun 2021 s.d 2025",
+      "unit": "Rp",
+      "items": [
+        {
+          "id": "usaha-1",
+          "name": "Pembiayaan",
+          "color": "#8b5cf6",
+          "values": {
+            "2021": 19244481545,
+            "2022": 22950308118,
+            "2023": 25277640892,
+            "2024": 24111902244,
+            "2025": 25896794557
+          }
+        },
+        {
+          "id": "usaha-2",
+          "name": "Pendapatan Bruto",
+          "color": "#7c3aed",
+          "values": {
+            "2021": 3066686523,
+            "2022": 3781105346,
+            "2023": 4343795775,
+            "2024": 4141999662,
+            "2025": 4055787199
+          }
+        },
+        {
+          "id": "usaha-3",
+          "name": "SHU Sebelum Pajak",
+          "color": "#6d28d9",
+          "values": {
+            "2021": 197090445,
+            "2022": 350321171,
+            "2023": 443248235,
+            "2024": 186387242,
+            "2025": 164745654
+          }
+        }
+      ]
+    },
+    "keanggotaan": {
+      "title": "Keanggotaan",
+      "subtitle": "Rincian Jumlah Anggota dari Tahun 2021 s.d 2025 (Per 31 Desember 2024)",
+      "unit": "Orang",
+      "items": [
+        {
+          "id": "anggota-1",
+          "name": "Babadan",
+          "color": "#0ea5e9",
+          "values": {
+            "2021": 1243,
+            "2022": 1552,
+            "2023": 1426,
+            "2024": 2678,
+            "2025": 2466
+          }
+        },
+        {
+          "id": "anggota-2",
+          "name": "Mertapada Kulon",
+          "color": "#0284c7",
+          "values": {
+            "2021": 270,
+            "2022": 319,
+            "2023": 352,
+            "2024": 492,
+            "2025": 528
+          }
+        },
+        {
+          "id": "anggota-3",
+          "name": "Pasar Celancang",
+          "color": "#0369a1",
+          "values": {
+            "2021": 484,
+            "2022": 589,
+            "2023": 654,
+            "2024": 878,
+            "2025": 981
+          }
+        }
+      ]
+    }
+  },
+  "spiritualSocial": {
+    "spiritual": {
+      "title": "Spiritual (Keagamaan)",
+      "tagline": "Pembinaan Ruhiyah & Karakter Syariah",
+      "desc": "Pembinaan spiritual pengurus, pengelola, anggota, serta masyarakat sekitar melalui kegiatan-kegiatan rutin:",
+      "activities": [
+        {
+          "id": "act-1",
+          "name": "Doa Bersama",
+          "desc": "Doa bersama secara khusyuk sebelum memulai jam kerja dan setelah menyelesaikan jam kerja setiap hari."
+        },
+        {
+          "id": "act-2",
+          "name": "Salat Duha Berjamaah",
+          "desc": "Membiasakan salat sunnah Duha sebagai ikhtiar pembuka pintu rezeki yang berkah dan halal."
+        },
+        {
+          "id": "act-3",
+          "name": "Jamiyah Yasin",
+          "desc": "Kajian dan pembacaan surat Yasin bersama untuk mempererat ukhuwah islamiyah antar pengelola dan anggota."
+        },
+        {
+          "id": "act-4",
+          "name": "Tausiyah Bulanan",
+          "desc": "Siraman rohani berkala bersama para alim ulama dan ustadz Cirebon guna menguatkan komitmen fiqih muamalah."
+        },
+        {
+          "id": "act-5",
+          "name": "Ziarah Wali & Alim Ulama",
+          "desc": "Kegiatan ziarah ke makam para wali songo dan alim ulama untuk meneladani perjuangan dakwah Islam."
+        },
+        {
+          "id": "act-6",
+          "name": "Tadarus Al-Qur'an",
+          "desc": "Membaca dan mentadabburi ayat-ayat suci Al-Qur'an secara rutin di seluruh kantor cabang."
+        }
+      ]
+    },
+    "sosial": {
+      "title": "Sosial dan Pendidikan",
+      "tagline": "Amanah Keumatan & Filantropi Islam",
+      "programs": [
+        {
+          "id": "baitulmal",
+          "name": "Baitulmal",
+          "badge": "Pengelolaan ZIS",
+          "icon": "Coins",
+          "desc": "Unit pengelola dana sosial keagamaan yang berfokus pada kemaslahatan umat dhuafa.",
+          "points": [
+            "Menampung zakat, infak, dan sedekah masyarakat untuk disampaikan secara langsung kepada fakir miskin, orang yang membutuhkan, atau siapa pun yang berhak (asnaf).",
+            "Turut serta aktif dalam menunjang peningkatan sarana dan prasarana tempat ibadah, masjid, dan musholla di wilayah Cirebon."
+          ]
+        },
+        {
+          "id": "santunan",
+          "name": "Santunan",
+          "badge": "Kepedulian Sosial & Taawun",
+          "icon": "HeartHandshake",
+          "desc": "Bantuan kemanusiaan dan jaminan tolong-menolong syariah antar sesama anggota.",
+          "points": [
+            "Menyantuni anak yatim, piatu, yatim piatu, para jompo, dan kaum dhuafa secara berkesinambungan.",
+            "Melalui Program Taawun, lembaga bisa menanggung asuransi/pembebasan bagi anggota yang meninggal dunia ketika masih memiliki tanggungan pembiayaan."
+          ]
+        },
+        {
+          "id": "perambabulan-pintar",
+          "name": "Perambabulan Pintar",
+          "badge": "Beasiswa Pendidikan Yatim Piatu",
+          "icon": "GraduationCap",
+          "desc": "Program pendidikan berkelanjutan untuk mewujudkan masa depan anak yatim berprestasi.",
+          "points": [
+            "Program pemberian santunan dan biaya pendidikan kepada siswa yang berstatus yatim piatu.",
+            "Tahun 2025 memasuki tahun ke-9 dengan jumlah siswa yang mendapat santunan 5 siswa binaan.",
+            "Program ini bersifat umum dan siap menerima titipan zakat, infaq maupun sedekah dari para sahabat donatur Perambabulan."
+          ],
+          "rekening": "103-01-002278",
+          "atasNama": "Perambabulan Pintar"
+        }
+      ]
+    }
+  },
+  "legality": [
+    {
+      "id": "leg-1",
+      "letter": "a",
+      "title": "Akta Pendirian Badan Hukum",
+      "number": "No. 06/BH/DIS-KOP/V/2001",
+      "category": "Badan Hukum",
+      "issuer": "Dinas Koperasi",
+      "date": "Mei 2001",
+      "description": "Pengesahan akta pendirian awal badan hukum KSPPS Perambabulan Makmur Abadi.",
+      "badge": "Akta Pendirian",
+      "active": true
+    },
+    {
+      "id": "leg-2",
+      "letter": "b",
+      "title": "Akta Perubahan I Badan Hukum",
+      "number": "No.: 06/BH/PAD/DIS.KOP/X/2004",
+      "category": "Perubahan Anggaran Dasar",
+      "issuer": "Dinas Koperasi",
+      "date": "Oktober 2004",
+      "description": "Akta perubahan anggaran dasar pertama badan hukum koperasi.",
+      "badge": "Perubahan I",
+      "active": true
+    },
+    {
+      "id": "leg-3",
+      "letter": "c",
+      "title": "Akta Perubahan II Badan Hukum",
+      "number": "No.: 08/BH/PAD/KUMKM/2015",
+      "category": "Perubahan Anggaran Dasar",
+      "issuer": "Kementerian KUMKM",
+      "date": "Tahun 2015",
+      "description": "Akta perubahan anggaran dasar kedua badan hukum koperasi.",
+      "badge": "Perubahan II",
+      "active": true
+    },
+    {
+      "id": "leg-4",
+      "letter": "d",
+      "title": "Akta Perubahan III Badan Hukum",
+      "number": "No.: AHU-0000425.Ah.01.38.Tahun 2022",
+      "category": "Kemenkumham RI",
+      "issuer": "Kemenkumham RI (AHU Online)",
+      "date": "Tahun 2022",
+      "description": "Pengesahan perubahan anggaran dasar koperasi secara elektronik melalui Ditjen AHU Kemenkumham.",
+      "badge": "AHU Kemenkumham",
+      "active": true
+    },
+    {
+      "id": "leg-5",
+      "letter": "e",
+      "title": "Izin Usaha Simpan Pinjam",
+      "number": "518/034/Bidang Koperasi tanggal 21 Desember 2015",
+      "category": "Izin Operasional",
+      "issuer": "Bidang Koperasi",
+      "date": "21 Desember 2015",
+      "description": "Surat Izin Usaha Simpan Pinjam dan Pembiayaan Syariah operasional resmi KSPPS PMA.",
+      "badge": "Izin Operasional",
+      "active": true
+    },
+    {
+      "id": "leg-6",
+      "letter": "f",
+      "title": "Surat Izin Usaha Perdagangan (SIUP)",
+      "number": "No. 0539/10-23/PK/V/2016",
+      "category": "Izin Usaha",
+      "issuer": "Dinas Penanaman Modal & Pelayanan Terpadu",
+      "date": "Mei 2016",
+      "description": "Surat Izin Usaha Perdagangan resmi yang sah dan terdaftar.",
+      "badge": "SIUP",
+      "active": true
+    },
+    {
+      "id": "leg-7",
+      "letter": "g",
+      "title": "Tanda Daftar Perusahaan (TDP)",
+      "number": "No. 10222650288 tanggal 20 Mei 2016",
+      "category": "Pendaftaran Perusahaan",
+      "issuer": "Dinas Perindustrian & Perdagangan",
+      "date": "20 Mei 2016",
+      "description": "Tanda Daftar Perusahaan resmi sebagai legalitas badan usaha koperasi.",
+      "badge": "TDP",
+      "active": true
+    },
+    {
+      "id": "leg-8",
+      "letter": "h",
+      "title": "Perizinan Berusaha Berbasis Risiko (NIB)",
+      "number": "Nomor Induk Berusaha : 2205220004135",
+      "category": "NIB OSS RBA",
+      "issuer": "Kementerian Investasi / BKPM (OSS RBA)",
+      "date": "Terdaftar & Aktif",
+      "description": "Perizinan Berusaha Berbasis Risiko Nasional terintegrasi sistem Online Single Submission (OSS).",
+      "badge": "NIB OSS RBA",
+      "active": true
+    },
+    {
+      "id": "leg-9",
+      "letter": "i",
+      "title": "Sertifikat Nomor Induk Koperasi (NIK)",
+      "number": "3209280030002",
+      "category": "Kemenkop & UKM RI",
+      "issuer": "Kementerian Koperasi dan UKM RI",
+      "date": "Terverifikasi Aktif & Sehat",
+      "description": "Sertifikat Nomor Induk Koperasi yang membuktikan koperasi terdaftar resmi, aktif, dan sehat di Kemenkop RI.",
+      "badge": "NIK Kemenkop",
+      "active": true
+    },
+    {
+      "id": "leg-10",
+      "letter": "j",
+      "title": "Sertifikasi Kompetensi Pengurus & Pengawas",
+      "number": "Sertifikasi Kompetensi Tahun 2025",
+      "category": "Standar Kompetensi SDM",
+      "issuer": "Badan Nasional Sertifikasi Profesi (BNSP)",
+      "date": "Tahun 2025",
+      "description": "Seluruh jajaran Pengurus dan Pengawas memiliki Sertifikasi Standar Kompetensi resmi di bidang pengelolaan koperasi syariah.",
+      "badge": "Kompetensi 2025",
+      "active": true
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Farhan Saefulah, S.T",
+      "role": "Startup Teknologi & Informasi, Cirebon",
+      "avatar": "./uploads/1794430589320_643_farhan.png",
+      "rating": 5,
+      "date": "10 Februari 2026",
+      "branch": "Cabang Babadan",
+      "badge": "Anggota Sejak 2017",
+      "content": "Sebagai pelaku usaha di bidang startup teknologi dan informasi, saya merasa sangat terbantu dengan layanan KSPPS Perambabulan Makmur Abadi. Pelayanan yang ramah, komunikatif, dan profesional memberikan pengalaman yang positif. Saya mengapresiasi kemudahan akses layanan serta pendekatan yang mengedepankan prinsip syariah. Semoga KSPPS PMA terus berkembang, berinovasi, dan menjadi mitra terpercaya dalam mendukung pertumbuhan ekonomi serta pengembangan usaha masyarakat.",
+      "productUsed": "Pembiayaan Modal Kerja Syariah",
+      "active": true,
+      "id": "testi-1"
+    },
+    {
+      "id": "testi-2",
+      "name": "Ibu Hj. Siti Nurhasanah",
+      "role": "Pengusaha Konveksi & Jahit, Mertapada",
+      "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150&auto=format&fit=crop&q=80",
+      "rating": 5,
+      "date": "28 Januari 2026",
+      "branch": "Cabang Mertapada",
+      "badge": "Penabung Aktif",
+      "content": "Saya mempercayakan simpanan kurban dan TAMASKOP di KSPPS PMA sejak 6 tahun lalu. Bagi hasilnya berkah, pelayanannya ramah seperti keluarga sendiri, dan penarikan sangat mudah saat dibutuhkan.",
+      "productUsed": "Simpanan Sukarela TAMASKOP",
+      "active": true
+    },
+    {
+      "id": "testi-3",
+      "name": "Ahmad Fauzi, S.Pd.",
+      "role": "Guru & Wirausaha Toko ATK, Babadan",
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150&auto=format&fit=crop&q=80",
+      "rating": 5,
+      "date": "15 Januari 2026",
+      "branch": "Kantor Pusat Babadan",
+      "badge": "Anggota Aktif",
+      "content": "Pengajuan pembiayaan renovasi tempat usaha di KSPPS PMA sangat jelas mekanismenya. Tidak ada biaya siluman atau bunga berbunga. Pelayanan stafnya santun dan amanah.",
+      "productUsed": "Pembiayaan Multiguna",
+      "active": true
+    },
+    {
+      "id": "testi-4",
+      "name": "Ibu Ratna Dewi",
+      "role": "Peternak Ayam Petelur, Cirebon Timur",
+      "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=150&auto=format&fit=crop&q=80",
+      "rating": 5,
+      "date": "03 Januari 2026",
+      "branch": "Cabang Celancang",
+      "badge": "Penerima Pembiayaan",
+      "content": "Koperasi yang benar-benar memajukan perekonomian umat di pedesaan Cirebon. Selain urusan bisnis, ada kegiatan pengajian rutin dan santunan anak yatim melalui program Baitulmal.",
+      "productUsed": "Pembiayaan Usaha Mikro Syariah",
+      "active": true
+    },
+    {
+      "id": "testi-5",
+      "name": "Kusnan Saprudin",
+      "role": "Pengemudi Armada Distribusi & Anggota",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&auto=format&fit=crop&q=80",
+      "rating": 5,
+      "date": "20 Desember 2025",
+      "branch": "Cabang Mertapada",
+      "badge": "Simpanan Berjangka",
+      "content": "Sangat puas dengan simpanan berjangka mudharabah di KSPPS PMA. Setiap RAT selalu transparan laporannya, SHU dibagikan tepat waktu, dan pengurusnya sangat amanah.",
+      "productUsed": "Simpanan Berjangka (Deposito)",
+      "active": true
+    }
+  ]
+}
