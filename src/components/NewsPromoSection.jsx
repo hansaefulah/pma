@@ -161,7 +161,7 @@ export default function NewsPromoSection({ articles = [], onArticleView }) {
                     {/* Badge top right (BRI Style badge) */}
                     <div className="absolute top-3 right-3">
                       <span className="text-[10px] font-bold px-2.5 py-1 rounded-full bg-white/95 text-emerald-950 backdrop-blur-md shadow-xs">
-                        {art.badge || (art.type === 'promo' ? 'Promo Spesial' : 'Berita')}
+                        {art.badge || (art.type === 'berita' ? 'Promo Spesial' : 'Berita')}
                       </span>
                     </div>
                   </div>
