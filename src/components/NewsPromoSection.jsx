@@ -20,8 +20,8 @@ export default function NewsPromoSection({ articles = [], onArticleView }) {
   const scrollContainerRef = useRef(null);
 
   const tabs = [
-    { id: 'promo', label: 'PROMOSI' },
     { id: 'berita', label: 'BERITA' },
+    { id: 'promo', label: 'PROMOSI' },
     { id: 'pengumuman', label: 'PENGUMUMAN' },
     { id: 'literasi', label: 'LITERASI SYARIAH' },
   ];
@@ -29,8 +29,8 @@ export default function NewsPromoSection({ articles = [], onArticleView }) {
   // Filter based on active tab
   const filteredArticles = articles.filter(art => {
     if (art.active === false) return false;
-    if (activeTab === 'promo') return art.type === 'promo';
     if (activeTab === 'berita') return art.type === 'berita';
+    if (activeTab === 'promo') return art.type === 'promo';
     if (activeTab === 'pengumuman') return art.type === 'pengumuman' || art.badge?.toLowerCase().includes('pengumuman');
     if (activeTab === 'literasi') return art.type === 'literasi' || art.badge?.toLowerCase().includes('edukasi') || art.badge?.toLowerCase().includes('literasi');
     return true;
