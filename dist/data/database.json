@@ -6,7 +6,7 @@
       "subtitle": "Koperasi Simpan Pinjam dan Pembiayaan Syariah Perambabulan Makmur Abadi berkomitmen membangun ekonomi umat dengan prinsip syariah dan gotong royong.",
       "tagline": "Video Profil KSPPS PMA Cirebon",
       "mediaType": "video",
-      "videoUrl": "./uploads/1794239218336_717_gemini_generated_video_9a83cc5.mp4",
+      "videoUrl": "./uploads/1794462592491_248_gemini_generated_video_9382c3c.mp4",
       "imageUrl": "./banner1.png",
       "link": "#about",
       "ctaText": "Pelajari Selengkapnya",
@@ -17,19 +17,9 @@
       "title": "# Membangun Ekonomi Umat",
       "subtitle": "Koperasi Simpan Pinjam dan Pembiayaan Syariah Perambabulan Makmur Abadi berkomitmen membangun ekonomi umat dengan prinsip syariah dan gotong royong.",
       "tagline": "Lembaga Keuangan Syariah Amanah",
-      "imageUrl": "./uploads/1794434345661_821_Building_a_Prosperous_Ummah_To.jpg",
+      "imageUrl": "./uploads/1794462651879_891_4c4ad2ff-44f2-41ed-b944-3f7c47.jpg",
       "link": "#about",
       "ctaText": "Pelajari Selengkapnya",
-      "active": true
-    },
-    {
-      "id": "banner-2",
-      "title": "Ayo Menabung di KSPPS PMA!",
-      "subtitle": "Menabung Hari Ini, Untuk Masa Depan yang Lebih Baik. Aman, berkah, bagi hasil kompetitif dan bebas riba.",
-      "tagline": "Simpanan Syariah Berkah",
-      "imageUrl": "./uploads/1794434357219_405_1aa1e36c-15e0-42a8-afab-38a8ee.jpg",
-      "link": "#products",
-      "ctaText": "Mulai Menabung",
       "active": true
     },
     {
@@ -37,7 +27,7 @@
       "title": "Kini Lebih Mudah dalam Genggaman",
       "subtitle": "Aplikasi dan Layanan Digital KSPPS PMA hadir memudahkan cek saldo, riwayat transaksi, simulasi pinjaman, dan konsultasi syariah kapan saja.",
       "tagline": "Layanan Digital Cepat & Aman",
-      "imageUrl": "./uploads/1794434382280_185_72f039b3-f701-4547-8ace-eeecd1.jpg",
+      "imageUrl": "./uploads/1794462672842_869_80b49e78-3307-4c3a-ac0a-7cf372.jpg",
       "link": "#calculator",
       "ctaText": "Hitung Simulasi Pinjaman",
       "active": true
@@ -318,7 +308,7 @@
       "name": "Pandi, S.E",
       "role": "Ketua",
       "title": "Ketua KSPPS PMA",
-      "photoUrl": "./uploads/1794418593113_803_9ebb76b3-9e2c-4287-ab76-784bf0.png",
+      "photoUrl": "./uploads/1794463020561_865_9ebb76b3-9e2c-4287-ab76-784bf0.jpg",
       "bio": "Tokoh penggerak ekonomi umat yang memelopori terbentuknya kelompok penjahit Bamabupa pada tahun 1995 hingga berkembang menjadi KSPPS PMA berbadan hukum nasional.",
       "quote": "\"Ekonomi umat akan bangkit manakala kita saling menguatkan dalam kejujuran, gotong royong, dan syariat Islam.\"",
       "cv": {
@@ -334,28 +324,10 @@
       "id": "founder-1"
     },
     {
-      "name": "Makula, S.E",
+      "name": "H. Sadikin, S.Ag, M.M",
       "role": "Wakil Ketua",
       "title": "Wakil Ketua KSPPS PMA",
-      "photoUrl": "./uploads/1794419009330_117_6ba8ec02-ef95-44a8-bb7a-d567e0.png",
-      "bio": "Praktisi perkoperasian berpengalaman lebih dari 20 tahun dalam manajemen perbankan dan koperasi jasa keuangan mikro syariah di wilayah III Cirebon.",
-      "quote": "\"Melayani dengan hati, mengawal amanah dengan teknologi modern dan keteguhan syariah.\"",
-      "cv": {
-        "birthPlace": "Cirebon",
-        "pendidikan": [],
-        "pengalaman": [],
-        "sertifikasi": [],
-        "penghargaan": [
-          "Pengelola Koperasi Berprestasi Tingkat Provinsi Jawa Barat (2022)"
-        ]
-      },
-      "id": "pengurus-1"
-    },
-    {
-      "name": "H. Sadikin, S.Ag, M.M",
-      "role": "Sekretaris I",
-      "title": "Sekretaris I KSPPS PMA",
-      "photoUrl": "./uploads/1794418651645_923_7474eca9-0757-43e1-9705-165db3.png",
+      "photoUrl": "./uploads/1794463028923_489_7474eca9-0757-43e1-9705-165db3.jpg",
       "bio": "Pakar tata kelola kelembagaan dan transformasi digital koperasi syariah yang mengawal integrasi layanan mobile dan modernisasi administrasi anggota.",
       "quote": "\"Koperasi modern adalah koperasi yang adaptif terhadap teknologi tanpa meninggalkan akar nilai gotong royong.\"",
       "cv": {
@@ -371,9 +343,9 @@
     },
     {
       "name": "Kumaedi, S.Pd.I",
-      "role": "Sekretaris II",
-      "title": "Sekretaris II KSPPS PMA",
-      "photoUrl": "./uploads/1794419019052_585_666a940d-ec69-4df4-be26-c731d0.png",
+      "role": "Sekretaris",
+      "title": "Sekretaris KSPPS PMA",
+      "photoUrl": "./uploads/1794463037752_703_666a940d-ec69-4df4-be26-c731d0.jpg",
       "bio": "Akuntan syariah profesional yang mengawasi kepatuhan tata kelola keuangan, likuiditas, dan pembagian hasil usaha yang adil bagi seluruh anggota.",
       "quote": "\"Setiap rupiah tabungan anggota adalah titipan yang wajib dipertanggungjawabkan di dunia dan akhirat.\"",
       "cv": {
@@ -388,10 +360,10 @@
       "id": "pengurus-3"
     },
     {
-      "name": "Amir",
-      "role": "Bendahara",
-      "title": "Bendahara KSPPS PMA",
-      "photoUrl": "./uploads/1794419024631_925_d169820b-1f9a-40ec-866d-190e64.png",
+      "name": " Warnito, S.Pd.",
+      "role": "Wakil Sekretaris",
+      "title": "Wakil Sekretaris KSPPS PMA",
+      "photoUrl": "./uploads/1794461258516_822_Formal_White-Background_ID_Por.png",
       "bio": "Ulama ahli fiqih muamalah lulusan Al-Azhar Kairo yang memastikan setiap akad, transaksi, dan produk KSPPS PMA 100% selaras dengan fatwa DSN-MUI.",
       "quote": "\"Keberkahan bukan hanya tentang keuntungan, melainkan tentang kesesuaian setiap langkah dengan ridho Allah SWT.\"",
       "cv": {
@@ -404,60 +376,6 @@
         ]
       },
       "id": "dps-1"
-    },
-    {
-      "name": "Edi Ruhaedi",
-      "role": "Ketua Pengawas",
-      "title": "Ketua Pengawas KSPPS PMA",
-      "photoUrl": "./uploads/1794419719574_118_8d5893be-a835-4b33-965c-dc9378.png",
-      "bio": "",
-      "quote": "",
-      "cv": {
-        "birthPlace": "Cirebon",
-        "pendidikan": [],
-        "pengalaman": [],
-        "sertifikasi": [],
-        "penghargaan": [
-          "Tokoh Penggerak Koperasi"
-        ]
-      },
-      "id": "team-1794419724610"
-    },
-    {
-      "name": "H. Tasadi",
-      "role": "Anggota Pengawas",
-      "title": "Anggota Pengawas KSPPS PMA",
-      "photoUrl": "./uploads/1794419763195_124_370218e0-e5f7-4320-bd49-db9be8.png",
-      "bio": "",
-      "quote": "",
-      "cv": {
-        "birthPlace": "Cirebon",
-        "pendidikan": [],
-        "pengalaman": [],
-        "sertifikasi": [],
-        "penghargaan": [
-          "Tokoh Penggerak Koperasi"
-        ]
-      },
-      "id": "team-1794419767731"
-    },
-    {
-      "name": "H. Rodadi",
-      "role": "Anggota Pengawas",
-      "title": "Anggota Pengawas KSPPS PMA",
-      "photoUrl": "./uploads/1794419840003_225_ddc9ae8a-d0fb-45cc-9586-d7ecbd.png",
-      "bio": "",
-      "quote": "",
-      "cv": {
-        "birthPlace": "Cirebon",
-        "pendidikan": [],
-        "pengalaman": [],
-        "sertifikasi": [],
-        "penghargaan": [
-          "Tokoh Penggerak Koperasi"
-        ]
-      },
-      "id": "team-1794419844201"
     }
   ],
   "branches": [
@@ -570,29 +488,30 @@
     }
   ],
   "visitorStats": {
-    "total": 14863,
-    "today": 574,
-    "todayDate": "2026-11-11",
-    "monthly": 4418,
-    "online": 5,
+    "total": 14869,
+    "today": 5,
+    "todayDate": "2026-11-12",
+    "monthly": 4424,
+    "online": 4,
     "devices": {
       "mobile": 68,
-      "desktop": 51,
+      "desktop": 57,
       "tablet": 4
     },
     "browsers": {
-      "Chrome": 76,
+      "Chrome": 91,
       "Safari": 15,
-      "Edge": 27,
+      "Edge": 18,
       "Firefox": 5
     },
     "popularPages": {
       "home": 7430,
-      "products": 4180,
-      "calculator": 2860,
-      "about": 1450,
-      "branches": 920,
-      "adminkspps": 3
+      "products": 4181,
+      "calculator": 2861,
+      "about": 1453,
+      "branches": 921,
+      "news": 2,
+      "adminkspps": 1
     },
     "dailyHistory": [
       {
@@ -626,80 +545,128 @@
     ],
     "recentLogs": [
       {
-        "id": 1794434225381,
-        "time": "04.57.05 WIB",
+        "id": 1794462906662,
+        "time": "12.55.06 WIB",
+        "page": "Tentang Kami & Pengurus",
+        "device": "Windows PC (Chrome)",
+        "ip": "127.0.0.1 (Localhost)",
+        "status": "Aktif"
+      },
+      {
+        "id": 1794462721159,
+        "time": "12.52.01 WIB",
+        "page": "Beranda Utama",
+        "device": "Windows PC (Chrome)",
+        "ip": "127.0.0.1 (Localhost)",
+        "status": "Aktif"
+      },
+      {
+        "id": 1794462717139,
+        "time": "12.51.57 WIB",
+        "page": "Tentang Kami & Pengurus",
+        "device": "Windows PC (Chrome)",
+        "ip": "127.0.0.1 (Localhost)",
+        "status": "Aktif"
+      },
+      {
+        "id": 1794462690669,
+        "time": "12.51.30 WIB",
+        "page": "Beranda Utama",
+        "device": "Windows PC (Chrome)",
+        "ip": "127.0.0.1 (Localhost)",
+        "status": "Aktif"
+      },
+      {
+        "id": 1794462610626,
+        "time": "12.50.10 WIB",
+        "page": "Beranda Utama",
+        "device": "Windows PC (Chrome)",
+        "ip": "127.0.0.1 (Localhost)",
+        "status": "Aktif"
+      },
+      {
+        "id": 1794430733019,
+        "time": "03.58.53 WIB",
         "page": "Portal Administrator",
-        "device": "Windows PC (Edge)",
+        "device": "Windows PC (Chrome)",
         "ip": "127.0.0.1 (Localhost)",
         "status": "Aktif"
       },
       {
-        "id": 1794434217724,
-        "time": "04.56.57 WIB",
+        "id": 1794430728469,
+        "time": "03.58.48 WIB",
         "page": "Beranda Utama",
-        "device": "Windows PC (Edge)",
+        "device": "Windows PC (Chrome)",
         "ip": "127.0.0.1 (Localhost)",
         "status": "Aktif"
       },
       {
-        "id": 1794430698087,
-        "time": "03.58.17 WIB",
+        "id": 1794430651570,
+        "time": "03.57.31 WIB",
         "page": "Beranda Utama",
-        "device": "Windows PC (Edge)",
+        "device": "Windows PC (Chrome)",
         "ip": "127.0.0.1 (Localhost)",
         "status": "Aktif"
       },
       {
-        "id": 1794430384513,
-        "time": "03.53.04 WIB",
-        "page": "Portal Administrator",
-        "device": "Windows PC (Edge)",
+        "id": 1794430631553,
+        "time": "03.57.11 WIB",
+        "page": "Berita & Promo",
+        "device": "Windows PC (Chrome)",
         "ip": "127.0.0.1 (Localhost)",
         "status": "Aktif"
       },
       {
-        "id": 1794430384429,
-        "time": "03.53.04 WIB",
+        "id": 1794430630860,
+        "time": "03.57.10 WIB",
+        "page": "Kantor Cabang",
+        "device": "Windows PC (Chrome)",
+        "ip": "127.0.0.1 (Localhost)",
+        "status": "Aktif"
+      },
+      {
+        "id": 1794430630162,
+        "time": "03.57.10 WIB",
+        "page": "Berita & Promo",
+        "device": "Windows PC (Chrome)",
+        "ip": "127.0.0.1 (Localhost)",
+        "status": "Aktif"
+      },
+      {
+        "id": 1794430629605,
+        "time": "03.57.09 WIB",
+        "page": "Tentang Kami & Pengurus",
+        "device": "Windows PC (Chrome)",
+        "ip": "127.0.0.1 (Localhost)",
+        "status": "Aktif"
+      },
+      {
+        "id": 1794430628122,
+        "time": "03.57.08 WIB",
+        "page": "Simulasi Pinjaman",
+        "device": "Windows PC (Chrome)",
+        "ip": "127.0.0.1 (Localhost)",
+        "status": "Aktif"
+      },
+      {
+        "id": 1794430627155,
+        "time": "03.57.07 WIB",
+        "page": "Produk & Layanan",
+        "device": "Windows PC (Chrome)",
+        "ip": "127.0.0.1 (Localhost)",
+        "status": "Aktif"
+      },
+      {
+        "id": 1794430599680,
+        "time": "03.56.39 WIB",
         "page": "Beranda Utama",
-        "device": "Windows PC (Edge)",
+        "device": "Windows PC (Chrome)",
         "ip": "127.0.0.1 (Localhost)",
         "status": "Aktif"
       },
       {
-        "id": 1794430384426,
-        "time": "03.53.04 WIB",
-        "page": "Beranda Utama",
-        "device": "Windows PC (Edge)",
-        "ip": "127.0.0.1 (Localhost)",
-        "status": "Aktif"
-      },
-      {
-        "id": 1794430190649,
-        "time": "03.49.50 WIB",
-        "page": "Portal Administrator",
-        "device": "Windows PC (Edge)",
-        "ip": "127.0.0.1 (Localhost)",
-        "status": "Aktif"
-      },
-      {
-        "id": 1794430190565,
-        "time": "03.49.50 WIB",
-        "page": "Beranda Utama",
-        "device": "Windows PC (Edge)",
-        "ip": "127.0.0.1 (Localhost)",
-        "status": "Aktif"
-      },
-      {
-        "id": 1794430190563,
-        "time": "03.49.50 WIB",
-        "page": "Beranda Utama",
-        "device": "Windows PC (Edge)",
-        "ip": "127.0.0.1 (Localhost)",
-        "status": "Aktif"
-      },
-      {
-        "id": 1794429921848,
-        "time": "03.45.21 WIB",
+        "id": 1794430506339,
+        "time": "03.55.06 WIB",
         "page": "Beranda Utama",
         "device": "Windows PC (Chrome)",
         "ip": "127.0.0.1 (Localhost)",
@@ -731,54 +698,6 @@
       },
       {
         "id": 1794422016222,
-        "time": "Baru saja",
-        "page": "Beranda (Home)",
-        "device": "Mobile Android",
-        "ip": "180.160.***.***",
-        "status": "Aktif"
-      },
-      {
-        "id": 1794422016033,
-        "time": "Baru saja",
-        "page": "Beranda (Home)",
-        "device": "Mobile Android",
-        "ip": "180.220.***.***",
-        "status": "Aktif"
-      },
-      {
-        "id": 1794422015852,
-        "time": "Baru saja",
-        "page": "Beranda (Home)",
-        "device": "Mobile Android",
-        "ip": "180.150.***.***",
-        "status": "Aktif"
-      },
-      {
-        "id": 1794422015691,
-        "time": "Baru saja",
-        "page": "Beranda (Home)",
-        "device": "Mobile Android",
-        "ip": "180.176.***.***",
-        "status": "Aktif"
-      },
-      {
-        "id": 1794422015531,
-        "time": "Baru saja",
-        "page": "Beranda (Home)",
-        "device": "Mobile Android",
-        "ip": "180.237.***.***",
-        "status": "Aktif"
-      },
-      {
-        "id": 1794422015341,
-        "time": "Baru saja",
-        "page": "Beranda (Home)",
-        "device": "Mobile Android",
-        "ip": "180.214.***.***",
-        "status": "Aktif"
-      },
-      {
-        "id": 1794422015055,
         "time": "Baru saja",
         "page": "Beranda (Home)",
         "device": "Mobile Android",

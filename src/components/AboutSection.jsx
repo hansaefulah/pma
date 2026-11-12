@@ -257,7 +257,7 @@ export default function AboutSection({ team, onOpenCv }) {
             Pendiri dan Pengurus Koperasi
           </h3>
           <p className="text-slate-600 text-xs sm:text-sm">
-            Para tokoh berpengalaman dan dewan pengawas syariah yang mengawal amanah anggota dengan integritas tinggi.
+           Periode 2025-2030
           </p>
         </div>
 
