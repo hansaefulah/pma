@@ -488,24 +488,24 @@
     }
   ],
   "visitorStats": {
-    "total": 14869,
-    "today": 5,
+    "total": 14871,
+    "today": 7,
     "todayDate": "2026-11-12",
-    "monthly": 4424,
-    "online": 4,
+    "monthly": 4426,
+    "online": 6,
     "devices": {
       "mobile": 68,
-      "desktop": 57,
+      "desktop": 59,
       "tablet": 4
     },
     "browsers": {
-      "Chrome": 91,
+      "Chrome": 93,
       "Safari": 15,
       "Edge": 18,
       "Firefox": 5
     },
     "popularPages": {
-      "home": 7430,
+      "home": 7432,
       "products": 4181,
       "calculator": 2861,
       "about": 1453,
@@ -544,6 +544,22 @@
       }
     ],
     "recentLogs": [
+      {
+        "id": 1794473984429,
+        "time": "15.59.44 WIB",
+        "page": "Beranda Utama",
+        "device": "Windows PC (Chrome)",
+        "ip": "127.0.0.1 (Localhost)",
+        "status": "Aktif"
+      },
+      {
+        "id": 1794473984110,
+        "time": "15.59.44 WIB",
+        "page": "Beranda Utama",
+        "device": "Windows PC (Chrome)",
+        "ip": "127.0.0.1 (Localhost)",
+        "status": "Aktif"
+      },
       {
         "id": 1794462906662,
         "time": "12.55.06 WIB",
@@ -686,22 +702,6 @@
         "page": "Beranda Utama",
         "device": "Windows PC (Chrome)",
         "ip": "127.0.0.1 (Localhost)",
-        "status": "Aktif"
-      },
-      {
-        "id": 1794429772697,
-        "time": "03.42.52 WIB",
-        "page": "Beranda Utama",
-        "device": "Windows PC (Chrome)",
-        "ip": "127.0.0.1 (Localhost)",
-        "status": "Aktif"
-      },
-      {
-        "id": 1794422016222,
-        "time": "Baru saja",
-        "page": "Beranda (Home)",
-        "device": "Mobile Android",
-        "ip": "180.160.***.***",
         "status": "Aktif"
       }
     ]
