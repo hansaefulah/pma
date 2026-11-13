@@ -28,6 +28,19 @@ export default function ApplyModal({ product, calculation, branches, onClose, on
 
   const isFinancing = product?.category === 'pinjaman' || product?.category === 'pembiayaan' || calculation;
 
+  // Fungsi helper untuk format tampilan angka ribuan (contoh: 100000 -> 100.000)
+  const formatNumberDisplay = (val) => {
+    if (val === '' || val === null || val === undefined || val === 0) return '';
+    return Number(val).toLocaleString('id-ID');
+  };
+
+  // Handler perubahan input nominal agar otomatis berformat titik & bebas batasan
+  const handleAmountChange = (e) => {
+    const rawDigits = e.target.value.replace(/\D/g, ''); // Hanya ambil angka
+    const numericValue = rawDigits ? Number(rawDigits) : 0;
+    setFormData({ ...formData, amount: numericValue });
+  };
+
   const handleSubmit = (e) => {
     e.preventDefault();
     if (!formData.applicantName || !formData.phone) {
@@ -229,11 +242,11 @@ export default function ApplyModal({ product, calculation, branches, onClose, on
                     {isFinancing ? 'Plafon / Jumlah Pengajuan (Rp)' : 'Estimasi Setoran Awal (Rp)'}
                   </label>
                   <input
-                    type="number"
-                    min={10000}
-                    step={50000}
-                    value={formData.amount}
-                    onChange={(e) => setFormData({ ...formData, amount: Number(e.target.value) })}
+                    type="text"
+                    inputMode="numeric"
+                    placeholder="Contoh: 100.000"
+                    value={formatNumberDisplay(formData.amount)}
+                    onChange={handleAmountChange}
                     className="w-full px-3.5 py-2.5 rounded-xl border border-slate-200 text-xs sm:text-sm focus:outline-emerald-600 focus:border-emerald-600"
                   />
                 </div>
@@ -292,4 +305,3 @@ export default function ApplyModal({ product, calculation, branches, onClose, on
     </div>
   );
 }
-
